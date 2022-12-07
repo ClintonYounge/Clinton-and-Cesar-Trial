@@ -1,5 +1,12 @@
+#img-div {
+  margin: 0 auto;
+}
+
 #image {
-  display: inline-block;
-  max-width: 50;
-  height: auto;
+  width: 50%;
+  display: inline-block
+}
+
+main{
+  background-color: silver;
 }
